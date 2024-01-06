@@ -23,8 +23,4 @@ Hi, I'm Nora! 👋.  I am a Software Developer. I currently work as MS Dynamincs
 </a>
 <br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nora209&show_icons=true&locale=en&layout=compact" alt="nora209" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nora209&show_icons=true&locale=en" alt="nora209" /></p>
 
-
- 
