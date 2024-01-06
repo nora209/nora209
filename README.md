@@ -18,8 +18,7 @@ Hi, I'm Nora! 👋.  I am a Software Developer. I currently work as MS Dynamincs
 <code><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/> </a> </code>
 <br><br>
 ## Contact with Me
-
-[<img align="left" alt="Nora's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/nora-sameh/)
-
+Let's connect! Feel free to reach out to me on LinkedIn:
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nora-sameh/)
 
 
