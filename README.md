@@ -19,6 +19,7 @@ Hi, I'm Nora! 👋.  I am a Software Developer. I currently work as MS Dynamincs
 <br><br>
 ## Contact with Me
 Let's connect! Feel free to reach out to me on LinkedIn:
+<br><br>
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nora-sameh/)
 
 
