@@ -22,4 +22,8 @@ Let's connect! Feel free to reach out to me on LinkedIn:
 <br><br>
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nora-sameh/)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nora209&show_icons=true&locale=en&layout=compact" alt="nora209" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nora209&show_icons=true&locale=en" alt="nora209" /></p>
 
+
+ 
